@@ -1,0 +1,11 @@
+
+.btn-secondary, .btn-secondary:active {
+    background-color: #0a0a0a !important;
+    border-color: #ea2396 !important;
+    color: #ffffff !important;
+}
+.btn-success, .btn-success:active {
+    background-color: rgb(0, 0, 0) !important;
+    border-color: #35b8fc !important;
+    color: #ffffff !important;
+}
